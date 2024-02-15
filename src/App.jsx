@@ -17,10 +17,10 @@ const App = () => (
     <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
     </section>
-    <section className="padding">
+    {/* <section className="padding">
       <PopularProducts />
-    </section>
-    <section className="padding">
+    </section> */}
+    {/* <section className="padding">
       <SuperQuality />
     </section>
     <section className="padding-x py-10">
@@ -37,7 +37,7 @@ const App = () => (
     </section>
     <section className="padding bg-black padding-x padding-y pb-8">
       <Footer />
-    </section>
+    </section> */}
   </main>
 );
 
