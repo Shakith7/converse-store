@@ -2,11 +2,19 @@ import bigShoe1 from "./big-shoe1.png";
 import bigShoe2 from "./big-shoe2.png";
 import bigShoe3 from "./big-shoe3.png";
 
+import bigSweets1 from "./Awurudu Kawili Images/Awurudu-Kawili-Kavum_0000.png"
+import bigSweets2 from "./Awurudu Kawili Images/Awurudu-Kawili-Kavum_0001.png"
+import bigSweetKokis1 from "./Awurudu Kawili Images/Awurudu-Kawili-Kokis_0000.png"
+import bigSweetAsmi1 from "./Awurudu Kawili Images/Awurudu-Kawili-Asmi_0000.png"
+
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
 
 import footerLogo from "./footer-logo.svg";
 import headerLogo from "./header-logo.svg";
+import headerLogo2 from "./header-logo-2.svg";
+
+
 
 import offer from "./offer.svg";
 
@@ -20,7 +28,7 @@ import shoe10 from "./shoe10.svg";
 import shoe11 from "./shoe11.svg";
 import shoe12 from "./shoe12.svg";
 
-import thumbnailBackground from "./thumbnail-background.svg";
+import thumbnailBackground from "./Awurudu Kawili Images/Awurudu-Kawili-Kavum_0001.png";
 import thumbnailShoe1 from "./thumbnail-shoe1.svg";
 import thumbnailShoe2 from "./thumbnail-shoe2.svg";
 import thumbnailShoe3 from "./thumbnail-shoe3.svg";
@@ -33,6 +41,7 @@ export {
   customer2,
   footerLogo,
   headerLogo,
+  headerLogo2,
   offer,
   shoe4,
   shoe5,
@@ -47,4 +56,8 @@ export {
   thumbnailShoe1,
   thumbnailShoe2,
   thumbnailShoe3,
+  bigSweets1,
+  bigSweets2,
+  bigSweetKokis1,
+  bigSweetAsmi1
 };

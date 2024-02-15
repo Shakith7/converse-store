@@ -7,20 +7,26 @@ import {
   twitter,
 } from "../icons";
 import {
-  bigShoe1,
-  bigShoe2,
-  bigShoe3,
+  // bigShoe1,
+  // bigShoe2,
+  // bigShoe3,
   customer1,
   customer2,
   shoe4,
   shoe5,
   shoe6,
   shoe7,
-  thumbnailShoe1,
-  thumbnailShoe2,
-  thumbnailShoe3,
+  // thumbnailShoe1,
+  // thumbnailShoe2,
+  // thumbnailShoe3,
 } from "../images";
 
+import {
+  bigSweets1,
+  bigSweets2,
+  bigSweetKokis1,
+  bigSweetAsmi1
+} from "../images/index"
 export const navLinks = [
   { href: "#home", label: "Home" },
   { href: "#about-us", label: "About Us" },
@@ -30,23 +36,34 @@ export const navLinks = [
 
 export const shoes = [
   {
-    thumbnail: thumbnailShoe1,
-    bigShoe: bigShoe1,
+    thumbnail: bigSweets2,
+    bigShoe: bigSweets2,
   },
   {
-    thumbnail: thumbnailShoe2,
-    bigShoe: bigShoe2,
+    thumbnail: bigSweetKokis1,
+    bigShoe: bigSweetKokis1,
   },
   {
-    thumbnail: thumbnailShoe3,
-    bigShoe: bigShoe3,
+    thumbnail: bigSweetAsmi1,
+    bigShoe: bigSweetAsmi1,
   },
 ];
 
+export const sweets = [
+  {
+    thumbnail: bigSweets1,
+    bigShoe: bigSweets1,
+  },
+  {
+    thumbnail: bigSweets2,
+    bigShoe: bigSweets2,
+  }
+];
+
 export const statistics = [
-  { value: "1k+", label: "Brands" },
-  { value: "500+", label: "Shops" },
-  { value: "250k+", label: "Customers" },
+  { value: "10+", label: "Sweets" },
+  // { value: "500+", label: "Shops" },
+  { value: "100+", label: "Customers" },
 ];
 
 export const products = [
