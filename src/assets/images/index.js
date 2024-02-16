@@ -7,6 +7,14 @@ import bigSweets2 from "./Awurudu Kawili Images/Awurudu-Kawili-Kavum_0001.png"
 import bigSweetKokis1 from "./Awurudu Kawili Images/Awurudu-Kawili-Kokis_0000.png"
 import bigSweetAsmi1 from "./Awurudu Kawili Images/Awurudu-Kawili-Asmi_0000.png"
 
+import sweetMunKawum from "./Awurudu Kawili Images/Awurudu-Kawili-Mun-Kawum.png"
+import sweetAluwa from "./Awurudu Kawili Images/Awurudu-Kawili-Aluwa.png"
+import sweetAggala from "./Awurudu Kawili Images/Awurudu-Kawili-Aggala.png"
+import sweetAthirasa from "./Awurudu Kawili Images/Awurudu-Kawili-Athirasa.png"
+import sweetCoconutCake from "./Awurudu Kawili Images/Awurudu-Kawili-Coconu-cake-pol-cake.png"
+import sweetNarangKawum from "./Awurudu Kawili Images/Awurudu-Kawili-Narang-Kawum.png"
+
+
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
 
@@ -59,5 +67,12 @@ export {
   bigSweets1,
   bigSweets2,
   bigSweetKokis1,
-  bigSweetAsmi1
+  bigSweetAsmi1,
+  sweetMunKawum,
+  sweetAluwa,
+  sweetAggala,
+  sweetAthirasa,
+  sweetCoconutCake,
+  sweetNarangKawum,
+
 };

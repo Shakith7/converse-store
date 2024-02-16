@@ -25,7 +25,13 @@ import {
   bigSweets1,
   bigSweets2,
   bigSweetKokis1,
-  bigSweetAsmi1
+  bigSweetAsmi1,
+  sweetMunKawum,
+  sweetAluwa,
+  sweetAggala,
+  sweetAthirasa,
+  sweetCoconutCake,
+  sweetNarangKawum,
 } from "../images/index"
 export const navLinks = [
   { href: "#home", label: "Home" },
@@ -51,13 +57,47 @@ export const shoes = [
 
 export const sweets = [
   {
-    thumbnail: bigSweets1,
-    bigShoe: bigSweets1,
+    imgURL: bigSweets2,
+    name: "Kawum/කැවුම් ",
   },
   {
-    thumbnail: bigSweets2,
-    bigShoe: bigSweets2,
-  }
+    imgURL: bigSweetKokis1,
+    name: "Kokis/කොකිස් ",
+  },
+  {
+    imgURL: bigSweetAsmi1,
+    name: "Asmee/ආස්මී",
+  },
+  {
+    imgURL: sweetMunKawum,
+    name: "Mun Kawum/මුන් කැවුම්",
+  },
+  {
+    imgURL: sweetAthirasa,
+    name: "Athirasa/අතිරස",
+  },
+  {
+    imgURL: sweetCoconutCake,
+    name: "Coconut Cake/පොල් cake",
+  },
+  {
+    imgURL: sweetNarangKawum,
+    name: "Narang Kawum/නාරං කැවුම්",
+  },
+  {
+    imgURL: sweetAggala,
+    name: "Aggala/අග්ගලා",
+  },
+  {
+    imgURL: sweetAluwa,
+    name: "Aluwa/අලුවා ",
+  },
+  {
+    imgURL: sweetMunKawum,
+    name: "Vali Thalapa/වැලිතලප",
+  },
+
+
 ];
 
 export const statistics = [
