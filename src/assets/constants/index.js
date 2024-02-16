@@ -12,6 +12,7 @@ import {
   // bigShoe3,
   customer3,
   customer4,
+  customer5,
   shoe4,
   shoe5,
   shoe6,
@@ -151,17 +152,24 @@ export const reviews = [
   {
     imgURL: customer3,
     customerName: "Mindula Shakith",
-    rating: 4.5,
+    rating: "4.5/5",
     feedback:
       "The first bite was pure heaven! The flavors were so authentic and delicious, reminding me of homemade treats from my childhood. This is now my go-to shop for all things Aluth Avurudda, and I can't wait to try more of their sweets!",
   },
   {
     imgURL: customer4,
     customerName: "Chamuditha Prabash",
-    rating: 4.8,
+    rating: "4.8/5",
     feedback:
       "My family raved about the freshness, taste, and quality of the sweets, saying they were the best they'd had outside Sri Lanka. This shop made my family's celebration extra special, and I'll definitely be ordering from them again!",
   },
+  {
+    imgURL: customer5,
+    customerName: "Chamuditha Prabash",
+    rating: "4.5/5",
+    feedback: 
+    "The first thing that impressed me was the beautiful packaging, but the real magic unfolded upon opening the box. The aroma of spices and sweetness transported me right back to Sri Lanka. Each bite was an explosion of flavor."
+  }
 ];
 
 export const footerLinks = [
