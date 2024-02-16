@@ -22,7 +22,7 @@ import {
 } from "../images";
 
 import {
-  // bigSweets1,
+  bigSweets1,
   bigSweets2,
   bigSweetKokis1,
   bigSweetAsmi1,
@@ -58,7 +58,7 @@ export const shoes = [
 
 export const sweets = [
   {
-    imgURL: bigSweets2,
+    imgURL: bigSweets1,
     name: "Kawum/කැවුම් ",
   },
   {
