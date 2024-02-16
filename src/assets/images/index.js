@@ -13,7 +13,7 @@ import sweetAggala from "./Awurudu Kawili Images/Awurudu-Kawili-Aggala.png"
 import sweetAthirasa from "./Awurudu Kawili Images/Awurudu-Kawili-Athirasa.png"
 import sweetCoconutCake from "./Awurudu Kawili Images/Awurudu-Kawili-Coconu-cake-pol-cake.png"
 import sweetNarangKawum from "./Awurudu Kawili Images/Awurudu-Kawili-Narang-Kawum.png"
-
+import sweetWaliThalapa from "./Awurudu Kawili Images/Awurudu-Kawili-Wali-Thalapa.png"
 
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
@@ -74,5 +74,5 @@ export {
   sweetAthirasa,
   sweetCoconutCake,
   sweetNarangKawum,
-
+  sweetWaliThalapa
 };

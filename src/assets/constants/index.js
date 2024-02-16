@@ -22,7 +22,7 @@ import {
 } from "../images";
 
 import {
-  bigSweets1,
+  // bigSweets1,
   bigSweets2,
   bigSweetKokis1,
   bigSweetAsmi1,
@@ -32,6 +32,7 @@ import {
   sweetAthirasa,
   sweetCoconutCake,
   sweetNarangKawum,
+  sweetWaliThalapa
 } from "../images/index"
 export const navLinks = [
   { href: "#home", label: "Home" },
@@ -93,7 +94,7 @@ export const sweets = [
     name: "Aluwa/අලුවා ",
   },
   {
-    imgURL: sweetMunKawum,
+    imgURL: sweetWaliThalapa,
     name: "Vali Thalapa/වැලිතලප",
   },
 
