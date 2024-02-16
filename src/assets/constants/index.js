@@ -165,7 +165,7 @@ export const reviews = [
   },
   {
     imgURL: customer5,
-    customerName: "Chamuditha Prabash",
+    customerName: "Sanduni Chathurangi",
     rating: "4.5/5",
     feedback: 
     "The first thing that impressed me was the beautiful packaging, but the real magic unfolded upon opening the box. The aroma of spices and sweetness transported me right back to Sri Lanka. Each bite was an explosion of flavor."
