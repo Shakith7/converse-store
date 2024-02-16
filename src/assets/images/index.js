@@ -17,10 +17,13 @@ import sweetWaliThalapa from "./Awurudu Kawili Images/Awurudu-Kawili-Wali-Thalap
 
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
+import customer3 from "./Customer3.jpg";
+import customer4 from "./Customer4.jpg";
 
 import footerLogo from "./footer-logo.svg";
 import headerLogo from "./header-logo.svg";
 import headerLogo2 from "./header-logo-2.svg";
+import footerLogo2 from "./header logo 2.jpg"
 
 
 
@@ -47,9 +50,12 @@ export {
   bigShoe3,
   customer1,
   customer2,
+  customer3,
+  customer4,
   footerLogo,
   headerLogo,
   headerLogo2,
+  footerLogo2,
   offer,
   shoe4,
   shoe5,

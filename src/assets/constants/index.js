@@ -10,8 +10,8 @@ import {
   // bigShoe1,
   // bigShoe2,
   // bigShoe3,
-  customer1,
-  customer2,
+  customer3,
+  customer4,
   shoe4,
   shoe5,
   shoe6,
@@ -151,18 +151,18 @@ export const services = [
 
 export const reviews = [
   {
-    imgURL: customer1,
-    customerName: "Morich Brown",
+    imgURL: customer3,
+    customerName: "Mindula Shakith",
     rating: 4.5,
     feedback:
-      "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+      "The first bite was pure heaven! The flavors were so authentic and delicious, reminding me of homemade treats from my childhood. This is now my go-to shop for all things Aluth Avurudda, and I can't wait to try more of their sweets!",
   },
   {
-    imgURL: customer2,
-    customerName: "Lota Mongeskar",
-    rating: 4.5,
+    imgURL: customer4,
+    customerName: "Chamuditha Prabash",
+    rating: 4.8,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      "My family raved about the freshness, taste, and quality of the sweets, saying they were the best they'd had outside Sri Lanka. This shop made my family's celebration extra special, and I'll definitely be ordering from them again!",
   },
 ];
 
@@ -170,12 +170,17 @@ export const footerLinks = [
   {
     title: "Products",
     links: [
-      { name: "Chuck Taylor All Star", link: "/" },
-      { name: "Run Star Hike Platform", link: "/" },
-      { name: "Chuck 70 Tri-Color", link: "/" },
-      { name: "Star Player 76", link: "/" },
-      { name: "Chuck Taylor All Star Lift Platform", link: "/" },
-      { name: "Run Star Legacy Chelsea CX", link: "/" },
+      { name: "Kawum/කැවුම්", link: "/" },
+      { name: "Kokis/කොකිස් ", link: "/" },
+      { name: "Asmee/ආස්මී", link: "/" },
+      { name: "Mun Kawum/මුන් කැවුම්", link: "/" },
+      { name: "Athirasa/අතිරස", link: "/" },
+      { name: "Coconut Cake/පොල් cake", link: "/" },
+      { name: "Narang Kawum/නාරං කැවුම්", link: "/" },
+      { name: "Aggala/අග්ගලා", link: "/" },
+      { name: "Aluwa/අලුවා", link: "/" },
+      { name: "Vali Thalapa/වැලිතලප", link: "/" },
+
     ],
   },
   {
@@ -191,8 +196,8 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@converse.com", link: "mailto:customer@converse.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "kawiligedaramail@gmail.com", link: "mailto:kawiligedaramail@gmail.com" },
+      { name: "+94771128411", link: "tel:+94771128411" },
     ],
   },
 ];
