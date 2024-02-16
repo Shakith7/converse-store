@@ -23,7 +23,7 @@ const PopularProductCard = ({ imgURL, name, isLast }) => {
   const displayedImage = isLast ? carrousel[currentIndex] : imgURL;
 
   return (
-    <div className="flex flex-1 flex-col w-full max-sm:w-full justify-center">
+    <div className="flex flex-1 flex-col w-full max-sm:w-full ">
       <img src={displayedImage} alt={name} className="w-[280px] h-[280px]" />
       <div className="mt-8 flex justify-start gap-2.5">
         {/* <img src={star} alt="rating" width={24} height={24} /> */}

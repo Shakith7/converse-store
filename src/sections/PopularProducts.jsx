@@ -18,12 +18,12 @@ const PopularProducts = () => {
       <TrackVisibility partialVisibility once>
         {({ isVisible }) => (
           <div
-            className={`mt-16 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 sm:gap-4 gap-14 content-center ${
+            className={`mt-16 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 sm:gap-4 gap-14 justify-evenly ${
               isVisible ? "animate__animated animate__fadeIn animate__slow" : ""
             }`}
           >
             {sweets.map((product, index) => (
-              <PopularProductCard 
+              <PopularProductCard className = {"justify-evenly"}
                 key={product.name}
                 {...product}
                 isLast={index === sweets.length}
