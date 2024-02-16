@@ -11,8 +11,7 @@ const Footer = () => {
             <img src={footerLogo2} width={250} height={46} />
           </a>
           <p className="mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm">
-            Get shoes ready for the new term at your nearest Converse store.
-            Find Your perfect Size In Store. Get Rewards
+          Celebrate the New Year with traditional Sri Lankan sweets: Kawili Gedara offers authentic flavors and cultural significance.
           </p>
           <div className="flex items-center gap-5 mt-8">
             {socialMedia.map((icon) => (

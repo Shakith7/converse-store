@@ -97,8 +97,6 @@ export const sweets = [
     imgURL: sweetWaliThalapa,
     name: "Vali Thalapa/වැලිතලප",
   },
-
-
 ];
 
 export const statistics = [
